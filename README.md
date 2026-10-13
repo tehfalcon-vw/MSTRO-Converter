@@ -6,6 +6,8 @@
 
 <p align="center">A simple desktop utility for converting between MSTRO and BIN files.</p>
 
+[Download here](https://github.com/tehfalcon-vw/MSTRO-Converter/releases/)
+
 ## Features
 
 - Decrypt & Convert MSTRO files to BIN files.
