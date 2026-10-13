@@ -14,13 +14,13 @@
 - Available for Windows (64-Bit) and macOS (Apple Silicon).
 
 ## Usage
-# Convert to BIN
+### Convert to BIN
 1. Choose **Convert to BIN**
 2. Select the MSTRO file you want to convert
 3. Set an output location.
 4. Start the conversion.
 
-# Convert to MSTRO
+### Convert to MSTRO
 1. Choose **Convert to MSTRO**
 2. Select the BIN file you want to convert,
 3. Select the original MSTRO file, or any MSTRO file that matches the BIN file's ECU (e.g. 1K0907115H)
