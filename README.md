@@ -8,8 +8,8 @@
 
 ## Features
 
-- Convert MSTRO files to BIN files.
-- Convert a BIN file to MSTRO using a matching MSTRO file as a template for encryption.
+- Decrypt & Convert MSTRO files to BIN files.
+- Convert a BIN file to an Encrypted MSTRO file using a matching MSTRO file as a template.
 - Repair MSTRO file checksums automatically.
 - Available for Windows (64-Bit) and macOS (Apple Silicon).
 
