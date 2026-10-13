@@ -23,7 +23,7 @@
 ### Convert to MSTRO
 1. Choose **Convert to MSTRO**
 2. Select the BIN file you want to convert,
-3. Select the original MSTRO file, or any MSTRO file that matches the BIN file's ECU (e.g. 1K0907115H)
+3. Select the original MSTRO file before BIN conversion, or any MSTRO file that matches the BIN file's ECU (e.g. 1K0907115H.mstro) if you don't have one.
 4. Set an output location.
 5. Start the conversion.
 
